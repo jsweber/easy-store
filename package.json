@@ -1,0 +1,25 @@
+{
+  "name": "easy-store",
+  "version": "0.0.1",
+  "description": "let localstorage and sessionstorage more powerfule",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsweber/easy-store.git"
+  },
+  "keywords": [
+    "javascript",
+    "localstorage",
+    "sessionstorage",
+    "expires"
+  ],
+  "author": "jsweber <951092973@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsweber/easy-store/issues"
+  },
+  "homepage": "https://github.com/jsweber/easy-store#readme"
+}
